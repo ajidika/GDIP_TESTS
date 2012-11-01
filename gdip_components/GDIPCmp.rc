@@ -1,0 +1,3 @@
+clock_png	RCDATA	"clock.png"
+sky_png		RCDATA	"sky.png"
+tree_png	RCDATA	"tree.png"
